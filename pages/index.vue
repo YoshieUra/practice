@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>タスク一覧</h1>
+        <h1>タスク一覧テスト</h1>
         <hr>
         <NuxtLink to="/other"></NuxtLink>
     </div>
